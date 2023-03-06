@@ -1,19 +1,19 @@
 # OnlineCourses
 This folder contains all the courses that I have taken at different learning platforms. 
-# List of courses Withcertificates
+## List of courses Withcertificates
 
 Coursera:
 
-AI foreveryone
-Applied Machine Learning in Python
-Introduction to data science in python 
-Big Data In Education
-Big Data capstone Project
-Introduction to Big Data (2015)
-Hadoop Platform and Application Framework
-Introduction to Big Data Analytics (2015)
-Machine Learning With Big Data (2015)
-Graph Analytics for Big Data(2015)
+1.AI foreveryone
+2.Applied Machine Learning in Python
+3.Introduction to data science in python 
+4.Big Data In Education
+5.Big Data capstone Project
+6.Introduction to Big Data (2015)
+7.Hadoop Platform and Application Framework
+8.Introduction to Big Data Analytics (2015)
+9.Machine Learning With Big Data (2015)
+10.Graph Analytics for Big Data(2015)
 
 Machine Learning Foundations:A Case Study Approach
 Machine Learning: Regression
