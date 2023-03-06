@@ -2,7 +2,7 @@
 This folder contains all the courses that I have taken at different learning platforms. 
 ## List of courses Withcertificates
 
-Coursera:
+###Coursera:
 
 1.AI foreveryone
 2.Applied Machine Learning in Python
