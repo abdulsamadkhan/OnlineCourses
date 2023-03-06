@@ -3,7 +3,7 @@ This folder contains all the courses that I have taken at different learning pla
 
 Here is alist of course that I have taken at different platforms
 
-##Coursera:
+## Coursera:
 1. AI for Everyone
 2. Applied Machine Learning in Python
 3. Introduction to Data Science in Python
@@ -34,7 +34,7 @@ Here is alist of course that I have taken at different platforms
 28. Convolutional Neural Networks
 28. Sequence Model
 29. Introduction to Machine Learning in Production
-##Edx:
+## Edx:
 1. Introduction to Big Data with Apache Spark
 2. CS190.1x: Scalable Machine Learning
 3. DS101X: Statistical Thinking for Data Science and Analytics
@@ -43,6 +43,6 @@ Here is alist of course that I have taken at different platforms
 6. 6.431x: Probability - The Science of Uncertainty and Data
 7. 18.6501x: Fundamentals of Statistics
 
-##Stanford:
+## Stanford:
 1. Statistical Learning
 
