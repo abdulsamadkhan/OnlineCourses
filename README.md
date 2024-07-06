@@ -2,7 +2,6 @@
 I am addicted to online learning 📚💻✨😂😜
 This folder contains some  the courses that I have taken at different learning platforms. 
 
-Here is alist of course that I have taken at different platforms
 
 ## Coursera:
 1. AI for Everyone
